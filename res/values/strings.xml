@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationDownloadProgress</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">notification download progress test</string>
+
+</resources>

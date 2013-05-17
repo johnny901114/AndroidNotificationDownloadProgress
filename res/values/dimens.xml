@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="large">20sp</dimen>
+    <dimen name="medium">18sp</dimen>
+    <dimen name="normal">16sp</dimen>
+    <dimen name="small">14sp</dimen>
+    <dimen name="small_2">13sp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">25dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="header_top_padding">10dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="more_padding">10dp</dimen>
+    <dimen name="more_paddingLeft">8dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    
+    
+        <!-- The width of the big icons in notifications. -->
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <!-- The width of the big icons in notifications. -->
+    <dimen name="notification_large_icon_height">64dp</dimen>
+
+</resources>
